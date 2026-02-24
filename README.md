@@ -1,4 +1,4 @@
 ## Hey,
 
-Full-Stack Web Developer  
+Full-Stack Web Application Developer  
 UCSC Bachelor of Information Technology
